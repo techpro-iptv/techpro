@@ -16,6 +16,42 @@ http://198.195.239.50:8095/unt-s/video.m3u8
 #EXTINF:-1,beIN SPORTS 1 ( Tech Pro )
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
+#EXTINF:-1,D sports ( Tech Pro )
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1,Case tv ( Tech Pro )
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1,Fox sports ( Tech Pro )
+https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
+
+#EXTINF:-1,TELEMUNDO ( Tech Pro )
+https://cz-pli2.hridoytvx.workers.dev/proxy/https://cdn1.zohanayaan.com:1686/hls/telmunda.m3u8?md5=TvgFbZUIOEa6BazAZqd25A&expires=1783417986
+
+#EXTINF:-1,Bein sports 1 ( Tech Pro )
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1,Telemundo ( Tech Pro )
+https://tda-nnaa-drct-pa6dy.fast.nbcuni.com/live/master_2.m3u8
+
+#EXTINF:-1,Qatar sports ( Tech Pro )
+https://live.kwikmotion.com/qtv1live/qtv1.smil/qtv1publish/qtv1_480p/chunks.m3u8
+
+#EXTINF:-1,Ptv ( Tech Pro )
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Somoy Tv ( Tech Pro )
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,T sports ( Tech Pro )
+http://103.165.93.31:8095/tsports/video.m3u8
+
+#EXTINF:-1,Bein Sports 4k ( Tech Pro )
+https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=17820572144
+
+#EXTINF:-1,Cctv ( Tech Pro )
+https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
+
 #EXTINF:-1,BTV ( Tech Pro )
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
@@ -63,9 +99,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1,Banglavision ( Tech Pro )
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-
-#EXTINF:-1,SATV ( Tech Pro )
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
 #EXTINF:-1 ,BOISHAKHI TV ( Tech Pro )
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
