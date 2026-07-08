@@ -1,26 +1,30 @@
-export default {
-  async fetch(request, env, ctx) {
-    // রিকোয়েস্ট থেকে URL-টি বের করে নেওয়া হচ্ছে
-    const url = new URL(request.url);
+addEventListener('fetch', event => {
+  event.respondWith(handleRequest(event.request))
+})
 
-    // ৮ নম্বর লাইনের টাইপো ঠিক করা হয়েছে এখানে
-    if (url.pathname === '/techpro.html') {
-      return new Response("Welcome to TechPro!", {
-        headers: { "content-type": "text/html" },
-      });
+async function handleRequest(request) {
+  // ধাপ ১ থেকে কপি করা আপনার গিটহাবের আসল Raw আইপিটিভি লিংকটি নিচের লাইনে বসাবেন
+  const githubRawUrl = 'https://raw.githubusercontent.com/techpro-iptv/techpro/refs/heads/main/techpro.m3u';
+
+  try {
+    const response = await fetch(githubRawUrl);
+    
+    if (!response.ok) {
+      return new Response('Error: File not found or Github blocked', { status: response.status });
     }
 
-    // হোমপেজ বা অন্য কোনো পাথের জন্য রেসপন্স
-    if (url.pathname === '/') {
-      return new Response("Hello World! This is the homepage.", {
-        headers: { "content-type": "text/plain" },
-      });
-    }
+    const playlistData = await response.text();
 
-    // যদি কোনো পাথ ম্যাচ না করে (404 Error)
-    return new Response("Page Not Found", { 
-      status: 404,
-      headers: { "content-type": "text/plain" }
+    // আইপিটিভি প্লেয়ার যেন ফাইলটি চিনতে পারে তার জন্য সঠিক হেডার
+    return new Response(playlistData, {
+      headers: {
+        'Content-Type': 'application/x-mpegurl; charset=utf-8',
+        'Access-Control-Allow-Origin': '*', 
+        'Cache-Control': 'no-cache, no-store, must-revalidate' 
+      },
     });
-  },
-};
+
+  } catch (error) {
+    return new Response('Error: ' + error.message, { status: 500 });
+  }
+}
