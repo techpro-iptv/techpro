@@ -2,15 +2,7 @@ export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     
-    // techpro-iptv রিপোজিটরি থেকে ফাইল রিড করার কোড
-    if (url.pathname === '/techpro.m3u') {
-      return fetch(`https://raw.githubusercontent.com/${env.GITHUB_REPO || 'techpro-iptv'}/main/techpro.m3u`);
-    }
+    // নিচের লাইনে 'আপনার-ইউজারনেম' এর জায়গায় আপনার আসল গিটহাব ইউজারনেমটি লিখে দিন
+    const githubUser = "YOUR_GITHUB_USERNAME/techpro-iptv"; 
     
-    if (url.pathname === '/index.html' || url.pathname === '/') {
-      return fetch(`https://raw.githubusercontent.com/${env.GITHUB_REPO || 'techpro-iptv'}/main/index.html`);
-    }
-
-    return new Response('IPTV Link Active', { status: 200 });
-  },
-};
+    if (url.pathname === '/techpro.m
