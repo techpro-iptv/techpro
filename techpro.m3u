@@ -10,6 +10,24 @@ http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Somoy Tv ( Tech Pro )
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Toffee ( Tech Pro )
+https://toffee-fifa.sm-monirul.top/sm/match_rewatch.m3u8
+
+#EXTINF:-1,Bioscope ( Tech Pro )
+https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8
+
+#EXTINF:-,T Sports ( Tech Pro )
+http://103.165.93.31:8095/tsports/video.m3u8
+
+#EXTINF:-1,Caze TV HD ( Tech Pro )
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1,Caze TV FHD ( Tech Pro )
+https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
+
+#EXTINF:-1,TSN2 ( Tech Pro )
+http://starhub.pro/live/farhat-3379/67897-913379/748388.ts
+
 #EXTINF:-1,UNITES SPORTS 2 ( Tech Pro )
 http://198.195.239.50:8095/unt-s/video.m3u8
 
