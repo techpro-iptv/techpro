@@ -154,17 +154,8 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1,Star Jalsha HD
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
-#EXTINF:-1,Star Jalsha SD
-http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
-
-#EXTINF:-1,Jalsha Movies SD
-http://103.151.60.162:2121/play/a00x/index.m3u8
-
 #EXTINF:-1 ,Zee Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-
-#EXTINF:-1,Zee Bangla SD
-http://103.151.60.162:2121/play/a011/index.m3u8
 
 #EXTINF:-1,Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
@@ -187,38 +178,8 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1,Sony Aath
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 
-#EXTINF:-1,Akash Aath
-https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
-
 #EXTINF:-1,DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
-
-#EXTINF:-1,Enter 10 Bangla
-https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-
-#EXTINF:-1,Republic Bangla
-https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
-
-#EXTINF:-1,News18 Bangla News
-https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-
-#EXTINF:-1,TV9 Bangla
-https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
-
-#EXTINF:-1,Orange Bangla
-https://cdn-4.pishow.tv/live/1499/1499_2.m3u8
-
-#EXTINF:-1,R Plus
-https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,R Plus Gould
-https://cdn-4.pishow.tv/live/1231/1231_2.m3u8
-
-#EXTINF:-1,ATN Music
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
-
-#EXTINF:-1,Channel-16
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
@@ -247,35 +208,23 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1,Colors Cineplex HD
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
-#EXTINF:-1,Colors
+#EXTINF:-1,GOLDMINES 1
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1 =,Bflix Movies
+#EXTINF:-1 =,GOLDMINES 2
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1,PICTURES
+#EXTINF:-1,&PICTURES
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
-
-#EXTINF:-1,Star Gold HD
-http://103.151.60.162:2121/play/a01n/index.m3u8
 
 #EXTINF:-1,Zee Cinema
 https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 
-#EXTINF:-1,Zee Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
-
-#EXTINF:-1,SONY MAX HD
+#EXTINF:-1,SONY MAX 1
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 
-#EXTINF:-1,SONY MAX SD
+#EXTINF:-1,SONY MAX 2
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
-
-#EXTINF:-1,SONY MAX-2
-http://103.151.60.162:2121/play/a015/index.m3u8
-
-#EXTINF:-1,MK Six
-https://cdn-3.pishow.tv/live/1253/master.m3u8
 
 #EXTINF:-1,South Station
 https://jmp2.uk/stvp-IN3800008CX
@@ -283,56 +232,14 @@ https://jmp2.uk/stvp-IN3800008CX
 #EXTINF:-1,B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1Sheemaroo Bollywood
+#EXTINF:-Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1,MBC tv
-http://93.184.10.248/MBCBollywood/index.m3u8
 
 #EXTINF:-1",NH Bolly Flix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
 #EXTINF:-1,Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
-
-#EXTINF:-1,Sony TV
-http://103.161.153.165:8000/play/a01i/index.m3u8
-
-#EXTINF:-1,Sony TV HD
-http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,Sony Sab
-http://103.161.153.165:8000/play/a03r/index.m3u8
-
-#EXTINF:-1,Star Plus
-http://103.229.254.25:7001/play/a09z/index.m3u8
-
-#EXTINF:-1,Ustsav Plus HD
-http://103.175.73.12:8080/live/9/9_0.m3u8
-
-#EXTINF:-1,Colors
-http://103.229.254.25:7001/play/a077/index.m3u8
-
-#EXTINF:-1,Colors HD
-http://103.229.254.25:7001/play/a0a1/index.m3u8
-
-#EXTINF:-1,Colors Rishtey
-http://103.175.73.12:8080/live/12/12_0.m3u8
-
-#EXTINF:-1,Zee TV
-http://103.161.153.165:8000/play/a01j/index.m3u8
-
-#EXTINF:-1,Zee TV HD
-http://103.229.254.25:7001/play/a0cs/index.m3u8
-
-#EXTINF:-1,And TV HD
-http://103.229.254.25:7001/play/a034/index.m3u8
-
-#EXTINF:-1,DD National
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 
 #EXTINF:-1,Sony Pix
 https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
@@ -357,9 +264,6 @@ https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
 
 #EXTINF:-1,MNX-HD
 https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
-
-#EXTINF:-1,&Flix HD
-http://103.151.60.162:2121/play/a01m/index.m3u8
 
 #EXTINF:-1,DISCOVERY ( Tech Pro )
 http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
