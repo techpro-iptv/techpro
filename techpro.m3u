@@ -28,6 +28,9 @@ http://starhub.pro/live/farhat-3379/67897-913379/748388.ts
 #EXTINF:-1,beIN SPORTS 1 ( Tech Pro )
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
+#EXTINF:-1,TSN4 ( Tech Pro )
+https://trophystream.com/cors-proxy/https/cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3ODM2NDEzNjUwMjY6Y2RubGl2ZXR2LnR2OjE4YjBjZDcyMDVkNGIwZTMuZTU4NmQ0MDZhYzNkZDUyNDAwYjBlNWM4YTI4YWZlMDU0Y2Q2OWViYTEyYTAxOGExNzdkMjUxY2M2NTNhY2ZlNA
+
 #EXTINF:-1,D sports ( Tech Pro )
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
