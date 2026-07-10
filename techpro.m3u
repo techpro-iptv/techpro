@@ -190,14 +190,43 @@ https://sm-monirul.top/toffee/play/toffee_drama.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Deshe Bideshe( Tech Pro )
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsha HD ( Tech Pro )
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsa
+https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla HD ( Tech Pro )
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla
+https://live.shamim-iptv.workers.dev/ZEEBANGLAHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla Cinema ( Tech Pro )
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla Chinena
+https://live.shamim-iptv.workers.dev/ZEEBANGLACINEMA.m3u88
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",জলসা Movie HD
+https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png",Sun Bangla
+https://live.shamim-iptv.workers.dev/SUNBANGLAHD.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/colors-bangla-hd-in.png" group-title="Uncategorized",Colors Bangla
+https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Colours Bangla Chinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Uncategorized",Colours Bangla Chinema
+https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Uncategorized",Sony Aath
+https://live.shamim-iptv.workers.dev/SONYATTH.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Sangeet Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sangeet-bangla-in.png" group-title="Uncategorized",Sangeet Bangla
+https://live.shamim-iptv.workers.dev/sangeetbangla.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="আকাশ ৮" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Akash%20Aath.png" group-title="Uncategorized",আকাশ ৮
+https://live.shamim-iptv.workers.dev/akash8.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Ente10 Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Enter%2010%20Bangla.jpeg" group-title="Uncategorized",Ente10 Bangla
+https://live.shamim-iptv.workers.dev/ENTER10BANGLA.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="Uncategorized",Channel 1
+https://live.shamim-iptv.workers.dev/channel1.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Me TV" tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257png" group-title="Uncategorized",Me TV
+http://103.175.242.10:8080/metv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Movies ( Tech Pro )
 http://103.151.60.162:2121/play/a0f5/index.m3u8
