@@ -178,6 +178,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Asian TV ( Tech Pro )
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png,Me TV ( Tech Pro )
+http://103.175.242.10:8080/metv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",G-Serise ( Tech Pro )
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
@@ -190,43 +193,41 @@ https://sm-monirul.top/toffee/play/toffee_drama.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Deshe Bideshe( Tech Pro )
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsa
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsa ( Tech Pro )
 https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/ZEEBANGLAHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla Chinena
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla Chinena ( Tech Pro )
 https://live.shamim-iptv.workers.dev/ZEEBANGLACINEMA.m3u88
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",জলসা Movie HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",জলসা Movie HD ( Tech Pro )
 https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png",Sun Bangla
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png",Sun Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/SUNBANGLAHD.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Colors Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/colors-bangla-hd-in.png" group-title="Uncategorized",Colors Bangla
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png,Colors Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Colours Bangla Chinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Uncategorized",Colours Bangla Chinema
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png,Colours Bangla Chinema ( Tech Pro )
 https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Sony Aath" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Uncategorized",Sony Aath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png,Sony Aath ( Tech Pro )
 https://live.shamim-iptv.workers.dev/SONYATTH.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Sangeet Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sangeet-bangla-in.png" group-title="Uncategorized",Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png,Sangeet Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/sangeetbangla.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="আকাশ ৮" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Akash%20Aath.png" group-title="Uncategorized",আকাশ ৮
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png,Aksh 8 ( Tech Pro )
 https://live.shamim-iptv.workers.dev/akash8.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Ente10 Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Enter%2010%20Bangla.jpeg" group-title="Uncategorized",Ente10 Bangla
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png,Ente10 Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/ENTER10BANGLA.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="Uncategorized",Channel 1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png,Channel 1 ( Tech Pro )
 https://live.shamim-iptv.workers.dev/channel1.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Me TV" tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257png" group-title="Uncategorized",Me TV
-http://103.175.242.10:8080/metv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Movies ( Tech Pro )
 http://103.151.60.162:2121/play/a0f5/index.m3u8
