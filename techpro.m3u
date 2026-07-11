@@ -178,7 +178,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Asian TV ( Tech Pro )
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png,Me TV ( Tech Pro )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Me TV ( Tech Pro )
 http://103.175.242.10:8080/metv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",G-Serise ( Tech Pro )
@@ -193,7 +193,7 @@ https://sm-monirul.top/toffee/play/toffee_drama.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Deshe Bideshe( Tech Pro )
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsa ( Tech Pro )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsa ( Tech Pro )
 https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla ( Tech Pro )
@@ -205,28 +205,28 @@ https://live.shamim-iptv.workers.dev/ZEEBANGLACINEMA.m3u88
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",জলসা Movie HD ( Tech Pro )
 https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png",Sun Bangla ( Tech Pro )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Sun Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/SUNBANGLAHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png,Colors Bangla ( Tech Pro )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Colors Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png,Colours Bangla Chinema ( Tech Pro )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Colours Bangla Chinema ( Tech Pro )
 https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png,Sony Aath ( Tech Pro )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Sony Aath ( Tech Pro )
 https://live.shamim-iptv.workers.dev/SONYATTH.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png,Sangeet Bangla ( Tech Pro )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Sangeet Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/sangeetbangla.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png,Aksh 8 ( Tech Pro )
+#EXTINF:-1tvg-logo="https://i.imgur.com/gLqHIqt.png",Aksh 8 ( Tech Pro )
 https://live.shamim-iptv.workers.dev/akash8.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png,Ente10 Bangla ( Tech Pro )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Ente10 Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/ENTER10BANGLA.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png,Channel 1 ( Tech Pro )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Channel 1 ( Tech Pro )
 https://live.shamim-iptv.workers.dev/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Movies ( Tech Pro )
