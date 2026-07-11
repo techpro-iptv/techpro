@@ -100,8 +100,8 @@ http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBa
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Ekattor TV ( Tech Pro )
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Channel-1 ( Tech Pro )
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Channel 1 ( Tech Pro )
+https://live.shamim-iptv.workers.dev/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Channel 24 ( Tech Pro )
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -199,9 +199,6 @@ https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/ZEEBANGLAHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla Chinena ( Tech Pro )
-https://live.shamim-iptv.workers.dev/ZEEBANGLACINEMA.m3u88
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",জলসা Movie HD ( Tech Pro )
 https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 
@@ -211,8 +208,6 @@ https://live.shamim-iptv.workers.dev/SUNBANGLAHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Colors Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Colours Bangla Chinema ( Tech Pro )
-https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Sony Aath ( Tech Pro )
 https://live.shamim-iptv.workers.dev/SONYATTH.m3u8
@@ -225,9 +220,6 @@ https://live.shamim-iptv.workers.dev/akash8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Ente10 Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/ENTER10BANGLA.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Channel 1 ( Tech Pro )
-https://live.shamim-iptv.workers.dev/channel1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Movies ( Tech Pro )
 http://103.151.60.162:2121/play/a0f5/index.m3u8
