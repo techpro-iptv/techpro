@@ -199,7 +199,7 @@ https://live.shamim-iptv.workers.dev/SUNBANGLAHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Colors Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Sony Aath ( Tech Pro )
@@ -325,7 +325,7 @@ http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Motor Vision ( Tech Pro )
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Delicious
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Delicious
 https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Nikky ( Tech Pro )
