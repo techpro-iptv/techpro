@@ -27,6 +27,20 @@ https://fiveo4.vilevodules.uk/main/secure/bf879f422f83b322ee19e37fdc7ccfd499ae0d
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Server 10 ( Tech Pro )
 https://fiveo4.vilevodules.uk/main/secure/9febcbfe76233d640ddd5bf7f7c6908cdac31b263ac62c0391b942f51c3ec243/1784223175/tycsports-usa.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Server 11 ( Tech Pro )
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Server 12 ( Tech Pro )
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Server 13 ( Tech Pro )
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Server 14 ( Tech Pro )
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Server 15 ( Tech Pro )
+http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",BTV ( Tech Pro )
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
