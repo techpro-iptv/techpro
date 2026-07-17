@@ -150,8 +150,12 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Deshe Bideshe ( Tech Pro )
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsa ( Tech Pro )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsa 1 ( Tech Pro )
 https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsa 2 ( Tech Pro )
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/ZEEBANGLAHD.m3u8
