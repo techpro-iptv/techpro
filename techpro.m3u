@@ -40,13 +40,103 @@ http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Server 15 ( Tech Pro )
-http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
+http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhex.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",SERVER 16 ( Tech Pro )
+https://amadertv.top:8880/play/hukoPYguCrKEpGejjrowgOTsDT_r_VJbTot1kBLjSJM.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",SERVER 17 ( Tech Pro )
+https://amadertv.top:8880/play/hukoPYguCrKEpGejjrowgPVo0vjyYja3Zly5k2WzO6M.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",SERVER 18 ( Tech Pro )
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",SERVER 19 ( Tech Pro )
+http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png",Btv ( Tech Pro )
+http://172.31.235.10:8080/hls/1-btv/1_0/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png",T Sports( Tech Pro )
+http://172.31.235.10:8080/hls/34-tsportssd/0_1/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png",T Sports ( Tech Pro )
+http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",TSN 4 ( Tech Pro )
+https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN4/tracks-v1a1/mono.m3u8?token=VFNONHxub19jaGVja19pcHwxNzgzNzE1ODEy.646b4a3ae5fac259db43ea7c6c0f3a55f4d164b46ac8c677ce0a8d11091e2284
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",TSN 3 ( Tech Pro )
+https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN3/tracks-v1a1/mono.m3u8?token=VFNOM3xub19jaGVja19pcHwxNzgzNzE3MDg1.e5f5a645393430768b21cc37aa47509f741901f08da36d1d4df0a93bd9c12394
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",HIGHLIGHT ( Tech Pro )
+https://content-aapm1.uplynk.com/2bc03997af1642b198695e9a0ee565da/f.m3u8?pbs=9be58739c6bd4d0bb3da671a12f2c1b2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Soco 1 ( Tech Pro )
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-15869de1b8eb3a7b9881bdaf7918dd40
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Soco 2 ( Tech Pro )
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Fussbal 1 ( Tech Pro )
+https://ir14.livekadeh.com/hls2/bein1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Xoilacz ( Tech Pro )
+https://tfxa4gr4uqmtt8y41hcjwghzdrqjpptwzc3jtf3a8r531cp1gh5djq31o.100ycdn.com/live1.pro2cdnlive.com/live/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",UNITE8 SPORTS 1 ( Tech Pro )
+http://103.151.60.162:2121/play/a0f8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Football ( Tech Pro )
+https://live-aburayhan1106.telewebion.ir/ek/sport1/live/1080p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",TSN2 ( Tech Pro )
+http://starhub.pro/live/farhat-3379/67897-913379/748388.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",beIN SPORTS 1 ( Tech Pro )
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",TSN4 ( Tech Pro )
+https://trophystream.com/cors-proxy/https/cdnlivetv.tv/secure/api/v1/6a288d2a81d8192bb76cc177/playlist.m3u8?token=NmEyODhkMmE4MWQ4MTkyYmI3NmNjMTc3OjE3ODM2NDEzNjUwMjY6Y2RubGl2ZXR2LnR2OjE4YjBjZDcyMDVkNGIwZTMuZTU4NmQ0MDZhYzNkZDUyNDAwYjBlNWM4YTI4YWZlMDU0Y2Q2OWViYTEyYTAxOGExNzdkMjUxY2M2NTNhY2ZlNA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",D sports ( Tech Pro )
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Case tv ( Tech Pro )
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Fox sports ( Tech Pro )
+https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Bein sports 1 ( Tech Pro )
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Telemundo ( Tech Pro )
+https://tda-nnaa-drct-pa6dy.fast.nbcuni.com/live/master_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Qatar sports ( Tech Pro )
+https://live.kwikmotion.com/qtv1live/qtv1.smil/qtv1publish/qtv1_480p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Willow Extra HD ( Tech Pro )
+http://27.124.71.27/Willow_Extra/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Ptv ( Tech Pro )
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Bein Sports 4k ( Tech Pro )
+https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=17820572144
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",DD Sports ( Tech Pro )
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Cctv ( Tech Pro )
+https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",BTV ( Tech Pro )
 http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",BTV World ( Tech Pro )
-http://103.151.60.162:2121/play/a013/index.m3u8
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",BTV News ( Tech Pro )
 http://103.151.60.162:2121/play/a01r/index.m3u8
@@ -120,6 +210,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Desh TV ( Tech Pro )
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gLqHIqt.png",T Sports 2 ( Tech Pro )
+http://172.17.50.112:84/ant1009/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",MY TV HD ( Tech Pro )
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 
@@ -133,7 +226,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Asian TV ( Tech Pro )
-https://play.hridoytv-engine.workers.dev/link-copy-kore-lav-nai=expire363470012216/cdn/live/asian_tv/playlist.m3u8
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
 #EXTINF:-1tvg-logo="https://i.imgur.com/gLqHIqt.png",Me TV ( Tech Pro )
 http://103.175.242.10:8080/metv/index.m3u8
@@ -150,12 +243,11 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Deshe Bideshe ( Tech Pro )
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsa 1 ( Tech Pro )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsa ( Tech Pro )
 https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsa 2 ( Tech Pro )
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Star Jalsa ( Tech Pro )
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Zee Bangla ( Tech Pro )
 https://live.shamim-iptv.workers.dev/ZEEBANGLAHD.m3u8
@@ -297,9 +389,6 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Delicious ( Tech Pro )
 https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Cartoon Network ( Tech Pro )
-https://fiveo4.vilevodules.uk/main/secure/28a28da672faf3807a31cfac0c8d60269bee42331c8c49b023ee1dc3433d636d/1784223247/cartoonnetwork-usa.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Nikky ( Tech Pro )
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
