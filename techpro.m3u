@@ -125,6 +125,10 @@ https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Sony Aath
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Sony Sab
+https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Sun Bangla 
 https://live.shamim-iptv.workers.dev/SUNBANGLAHD.m3u8
 
