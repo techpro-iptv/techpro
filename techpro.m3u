@@ -106,6 +106,12 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Deshi tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Probashi Tv
+http://158.69.24.53:8080/probashi_tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",JonmoBhumi
+https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Doyel Tv
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 
@@ -346,38 +352,6 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 https://vg-tv9yupp.vgcdn.net/vglive-sk-349214/v1/019dfcc139501567ee93770f7da98/019dfcc65a271ea55784752988543/main.m3u8
 
 
-# ─────────── International ─────────── #
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Al Jazeera
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Iran International
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",France 24
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",DISCOVERY
-http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Motor Vision
-https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Delicious
-https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Wild Planet
-https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Wild Tv
-https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",CBeebies
-https://fiveo4.vilevodules.uk/main/secure/c0b1a1c6c567a07b1bf211cec0913d283b42cbdc7c8cf1712d9b9ecca61abd23/1784542663/cbeebies-uk.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Twc
-https://fiveo4.vilevodules.uk/main/secure/1e6418671596994c48a99711ee5b6d1a77281d57153c82fc6d0cf55d7d3d9623/1784543598/twc-usa.m3u8
-
 
 # ─────────── sports ─────────── #
 
@@ -544,3 +518,46 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Saudi Quran
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+
+# ─────────── International ─────────── #
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",France 24
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Sports Fishing TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",DISCOVERY
+http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Motor Vision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Delicious
+https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Wild Planet
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Wild Tv
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",CBeebies
+https://fiveo4.vilevodules.uk/main/secure/c0b1a1c6c567a07b1bf211cec0913d283b42cbdc7c8cf1712d9b9ecca61abd23/1784542663/cbeebies-uk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Twc
+https://fiveo4.vilevodules.uk/main/secure/1e6418671596994c48a99711ee5b6d1a77281d57153c82fc6d0cf55d7d3d9623/1784543598/twc-usa.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png",Travel Tv
+https://streamer103.neterra.tv/travel/live.m3u8
