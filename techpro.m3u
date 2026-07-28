@@ -120,6 +120,12 @@ https://bdixserver.tvhunter.top/ant1006/tracks-v1a1/mono.m3u8
 
 
 
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Indians",&PICTURES
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
 
@@ -217,7 +223,7 @@ https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 http://tv1.intv.mk:1935/live/intv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Indians",Jalsa  Movie HD
-https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FJalsha_Movie%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
+https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Indians",Khushboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
@@ -282,6 +288,9 @@ https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Indians",Sony Aath
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Indians",Sony Entertainment  Television  HD
+https://aboxbdix.ryvox-tb-8ae.workers.dev/live/SONY-TELEVISION.m3u8?token=31f3dfdb36c2f20482d7a890f36e3f63&time=1785241073&link_index=0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Indians",SONY MAX 1
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 
@@ -300,6 +309,9 @@ https://jmp2.uk/stvp-IN3800008CX
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Indians",Star Jalsa
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FStar_Jalsha%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Indians",Star Movies HD
+https://live.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2FJalsha_Movie%2Ftracks-v1a1%2Fmono.m3u8%3Ftoken%3Di7bZaZWaFrSIE0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Indians",Sun Bangla
 https://live.shamim-iptv.workers.dev/SUNBANGLAHD.m3u8
 
@@ -313,7 +325,7 @@ https://vg-tv9yupp.vgcdn.net/vglive-sk-349214/v1/019dfcc139501567ee93770f7da98/0
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Indians",Zee Bangla
-https://aboxbdix.ryvox-tb-8ae.workers.dev/live/ZEE-BANGLA.m3u8?token=bc6a731a6b456ac4d2e86830b9beb7e6&time=1785079758&link_index=0
+https://aboxbdix.ryvox-tb-8ae.workers.dev/live/ZEE-BANGLA.m3u8?token=9e827b23a83bbd63b8ed45a4a894a3a6&time=1785240898&link_index=0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Indians",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
@@ -332,7 +344,6 @@ https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Indians",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
 
 
 
