@@ -3146,7 +3146,10 @@ https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Movies",Spider-Man: Brand New Day (2026)
+https://movie.ctgfun.com/disk1/English%20Movies/2026/SpiderMan-Brand%20New%20Day%20(2026)%201080p%20HDTS%20x264%20ESub%20%5bDDN%5d/SpiderMan-Brand%20New%20Day%20(2026)%201080p%20HDTS%20x264%20ESub%20%5bDDN%5d.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Movies",Spider-Man: Brand New Day (2026)
+https://play.roarzone.net/emby/videos/196960/master.m3u8?DeviceId=c35f0c16-b450-4dbc-99df-ea30cedb1064&MediaSourceId=mediasource_196960&StartTimeTicks=12766410880&PlaySessionId=e30be78195534b48841914e030e41970&api_key=1b0c65923d1b41bf82010d21af03f97a&VideoCodec=hevc,h264,av1&AudioCodec=mp3,aac&VideoBitrate=1831571&AudioBitrate=128428&AudioStreamIndex=1&TranscodingMaxAudioChannels=2&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=False&SubtitleStreamIndexes=-1&ManifestSubtitles=vtt&h264-profile=high,main,baseline,constrainedbaseline,high10&h264-level=62&hevc-codectag=hvc1,hev1,hevc,hdmv&TranscodeReasons=ContainerBitrateExceedsLimit#t=1276.641088
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gLqHIqt.png" group-title="Movies",FAN (1080p)
